@@ -13,6 +13,7 @@
   width: calc(100%-150px);
   background: linear-gradient(#e3e3e3, #f6f6f6);
   box-shadow: 5px 5px 10px #fff, -5px -5px 10px #fff;
+  border-radius: 20px;
 }
 .nav-logo {
   text-decoration: none;
@@ -20,12 +21,14 @@
   background: linear-gradient(#e3e3e3, #f6f6f6);
   box-shadow: 5px 5px 10px #fff, -5px -5px 10px #fff;
   padding: 10px 10px;
+  border-radius: 20px;
 }
 .nav-items {
   display: flex;
   background: linear-gradient(#e3e3e3, #f6f6f6);
   box-shadow: 5px 5px 10px #fff, -5px -5px 10px #fff;
   transition: all 0.5s ease-in-out;
+  border-radius: 20px;
 }
 .nav-item {
   text-decoration: none;
@@ -34,4 +37,5 @@
   margin: 0 auto;
   background: linear-gradient(#e3e3e3, #f6f6f6);
   box-shadow: 5px 5px 10px #fff, -5px -5px 10px #fff;
+  border-radius: 20px;
 }
